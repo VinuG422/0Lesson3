@@ -62,7 +62,7 @@ public class QuestionButtonListener implements ActionListener {
 		message = response + ": Correct answer!";
 
 	} else {
-		message = response + ":Weing answer!";
+		message = response + ":Wrong answer!";
 
 	}
 
